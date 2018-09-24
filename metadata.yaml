@@ -1,0 +1,53 @@
+_repo: The-Magical-Mimics-in-Oz_56555
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Kramer, Frank
+    birthdate: 1905
+    deathdate: 1993
+    gutenberg_agent_id: '48914'
+    url: http://www.gutenberg.org/2009/agents/48914
+  other_contributor:
+    agent_name: Baum, L. Frank (Lyman Frank)
+    aliases:
+    - Staunton, Schuyler
+    - Baum, Lyman Frank
+    - Fitzgerald, Hugh
+    - Cooke, John Estes
+    - Metcalf, Suzanne
+    - Van Dyne, Edith
+    - Bancroft, Laura
+    - Fitzgerald, Capt. Hugh
+    - Akers, Floyd
+    birthdate: 1856
+    deathdate: 1919
+    gutenberg_agent_id: '42'
+    url: http://www.gutenberg.org/2009/agents/42
+    wikipedia: http://en.wikipedia.org/wiki/L._Frank_Baum
+creator:
+  author:
+    agent_name: Snow, Jack
+    birthdate: 1907
+    deathdate: 1956
+    gutenberg_agent_id: '48913'
+    url: http://www.gutenberg.org/2009/agents/48913
+    wikipedia: https://en.wikipedia.org/wiki/Jack_Snow_(writer)
+description: ''
+gutenberg_issued: '2018-02-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56555'
+  lccn: '46006391'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Gale, Dorothy (Fictitious character) -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Wizard of Oz (Fictitious character) -- Juvenile fiction'
+- !lcsh 'Oz (Imaginary place) -- Juvenile fiction'
+- !lcsh 'Fantasy fiction'
+- GITenberg
+title: The Magical Mimics in Oz
+url: http://www.gutenberg.org/ebooks/56555
