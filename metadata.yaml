@@ -1,5 +1,5 @@
 _repo: The-Magical-Mimics-in-Oz_56555
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Kramer, Frank
@@ -24,6 +24,9 @@ contributor:
     gutenberg_agent_id: '42'
     url: http://www.gutenberg.org/2009/agents/42
     wikipedia: http://en.wikipedia.org/wiki/L._Frank_Baum
+covers:
+- cover_type: archival
+  image_path: 56555-h/images/cover.jpg
 creator:
   author:
     agent_name: Snow, Jack
@@ -33,6 +36,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/48913
     wikipedia: https://en.wikipedia.org/wiki/Jack_Snow_(writer)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56555#The-Magical-Mimics-in-Oz
 gutenberg_issued: '2018-02-12'
 gutenberg_type: Text
 identifiers:
